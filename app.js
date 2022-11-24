@@ -63,7 +63,7 @@ function combine(stokMentah, stokMaster) {
             if (stokMaster[i].kodeBarang === stokMentah.listBarang[j].kodeProduk) {
                 let intIsiPerBox = parseInt(stokMaster[i].isiPerBox.replace(/,/g, ''));
                 let intSisaStokMentah = parseInt(stokMentah.listBarang[j].sisaStok.replace(/,/g, ''));;
-                stokMaster[i].sisaStok = `${Math.floor(intSisaStokMentah / intIsiPerBox)} BOX ${intSisaStokMentah % intIsiPerBox} ROLL`;
+                stokMaster[i].sisaStok = `${Math.floor(intSisaStokMentah / intIsiPerBox)} BOX\n${intSisaStokMentah % intIsiPerBox} ROLL`;
             };
         }
         // hasil.push(
