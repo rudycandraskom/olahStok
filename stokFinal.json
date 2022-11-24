@@ -1,15 +1,15 @@
 {
-    "lastUpdate": "21-Nov-2022 10:18",
+    "lastUpdate": "24-Nov-2022 16:90",
     "listBarang": {
         "0": {
             "kodeProduk": "FOC0D0000480090YA000RO",
             "namaProduk": "DAIMARU OPP 48 X 90Y TRANSP",
-            "sisaStok": "150 BOX\n44 ROLL"
+            "sisaStok": "149 BOX\n42 ROLL"
         },
         "1": {
             "kodeProduk": "FOT0D0000480090YA000RO",
             "namaProduk": "DAIMARU OPP 48 X 90Y TAN",
-            "sisaStok": "86 BOX\n52 ROLL"
+            "sisaStok": "86 BOX\n50 ROLL"
         },
         "2": {
             "kodeProduk": "FOC0D0000480090YA000VK",
@@ -74,7 +74,7 @@
         "14": {
             "kodeProduk": "FOC0E0000450065YA000RO",
             "namaProduk": "EKATAPE OPP HIJAU 45 X 65Y TRANS",
-            "sisaStok": "59 BOX\n24 ROLL"
+            "sisaStok": "58 BOX\n24 ROLL"
         },
         "15": {
             "kodeProduk": "FOT0E0000450065YA000RO",
@@ -84,7 +84,7 @@
         "16": {
             "kodeProduk": "FOC0E0000450085YA000RO",
             "namaProduk": "EKATAPE OPP MERAH 45 X 85Y TRANS",
-            "sisaStok": "200 BOX\n33 ROLL"
+            "sisaStok": "199 BOX\n33 ROLL"
         },
         "17": {
             "kodeProduk": "FOT0E0000450085YA000RO",
@@ -104,7 +104,7 @@
         "20": {
             "kodeProduk": "FPW000000480100MF0001W",
             "namaProduk": "OPP PRINTED 48 X 100M FRAGILE",
-            "sisaStok": "0 BOX\n24 ROLL"
+            "sisaStok": "0 BOX\n18 ROLL"
         },
         "21": {
             "kodeProduk": "FPW000000480100MH0001W",
@@ -129,22 +129,22 @@
         "25": {
             "kodeProduk": "FZ00DI100120072YC000RO",
             "namaProduk": "DAIMARU SAT INDUSTRI 12 X 72Y",
-            "sisaStok": "22 BOX\n264 ROLL"
+            "sisaStok": "21 BOX\n108 ROLL"
         },
         "26": {
             "kodeProduk": "FZ00DI100240072YC000RO",
             "namaProduk": "DAIMARU SAT INDUSTRI 24 X 72Y",
-            "sisaStok": "43 BOX\n108 ROLL"
+            "sisaStok": "43 BOX\n12 ROLL"
         },
         "27": {
             "kodeProduk": "FZ00DP100120072YB000RO",
             "namaProduk": "DAIMARU SAT PREMIUM 12 X 72Y",
-            "sisaStok": "8 BOX\n240 ROLL"
+            "sisaStok": "8 BOX\n204 ROLL"
         },
         "28": {
             "kodeProduk": "FZ00DP100240072YB000RO",
             "namaProduk": "DAIMARU SAT PREMIUM 24 X 72Y",
-            "sisaStok": "14 BOX\n6 ROLL"
+            "sisaStok": "13 BOX\n132 ROLL"
         },
         "29": {
             "kodeProduk": "FCH0CA000240005M0000RO",
@@ -164,17 +164,17 @@
         "32": {
             "kodeProduk": "FCH0DA000240012M0000RO",
             "namaProduk": "DAIMARU CLT 24 X 12M HITAM",
-            "sisaStok": "3 BOX\n66 ROLL"
+            "sisaStok": "3 BOX\n42 ROLL"
         },
         "33": {
             "kodeProduk": "FCH0DA000360012M0000RO",
             "namaProduk": "DAIMARU CLT 36 X 12M HITAM",
-            "sisaStok": "12 BOX\n0 ROLL"
+            "sisaStok": "11 BOX\n48 ROLL"
         },
         "34": {
             "kodeProduk": "FCH0DA000480012M0000RO",
             "namaProduk": "DAIMARU CLT 48 X 12M HITAM",
-            "sisaStok": "12 BOX\n16 ROLL"
+            "sisaStok": "11 BOX\n53 ROLL"
         },
         "35": {
             "kodeProduk": "FCM0DA000480012M0000RO",
@@ -214,27 +214,27 @@
         "42": {
             "kodeProduk": "FCH0EB100460010Y0000RO",
             "namaProduk": "EKATAPE CLT 46 X 10Y HITAM",
-            "sisaStok": "18 BOX\n52 ROLL"
+            "sisaStok": "16 BOX\n52 ROLL"
         },
         "43": {
             "kodeProduk": "FM00DI000120021M0000RO",
             "namaProduk": "DAIMARU MASKING 12 X 21M",
-            "sisaStok": "5 BOX\n112 ROLL"
+            "sisaStok": "4 BOX\n112 ROLL"
         },
         "44": {
             "kodeProduk": "FM00DI000240021M0000RO",
             "namaProduk": "DAIMARU MASKING 24 X 21M",
-            "sisaStok": "25 BOX\n12 ROLL"
+            "sisaStok": "22 BOX\n84 ROLL"
         },
         "45": {
             "kodeProduk": "FM00DI000480021M0000RO",
             "namaProduk": "DAIMARU MASKING 48 X 21M",
-            "sisaStok": "0 BOX\n10 ROLL"
+            "sisaStok": "0 BOX\n0 ROLL"
         },
         "46": {
             "kodeProduk": "FM00EJ000240015Y0000RO",
             "namaProduk": "EKATAPE MASKING TAPE 24 X 15Y",
-            "sisaStok": "181 BOX\n32 ROLL"
+            "sisaStok": "180 BOX\n32 ROLL"
         },
         "47": {
             "kodeProduk": "FM00EJ000480015Y0000RO",
@@ -249,7 +249,7 @@
         "49": {
             "kodeProduk": "FM00EJ000480020M0000RO",
             "namaProduk": "EKATAPE MASKING TAPE 48 X 20M",
-            "sisaStok": "24 BOX\n18 ROLL"
+            "sisaStok": "22 BOX\n18 ROLL"
         },
         "50": {
             "kodeProduk": "FM00SM200240020YQ200UM",
@@ -259,12 +259,12 @@
         "51": {
             "kodeProduk": "FD00DQ000120012YP000RO",
             "namaProduk": "DAIMARU DOUBLE TP 12 X 12Y",
-            "sisaStok": "0 BOX\n120 ROLL"
+            "sisaStok": "0 BOX\n20 ROLL"
         },
         "52": {
             "kodeProduk": "FD00DQ000240012YP000RO",
             "namaProduk": "DAIMARU DOUBLE TP 24 X 12Y",
-            "sisaStok": "4 BOX\n60 ROLL"
+            "sisaStok": "3 BOX\n80 ROLL"
         },
         "53": {
             "kodeProduk": "FD00DQ000480012YP000RO",
@@ -274,7 +274,7 @@
         "54": {
             "kodeProduk": "FF00D0000240005M0000RO",
             "namaProduk": "DAIMARU DOUBLE FOAM 24 X 5M",
-            "sisaStok": "9 BOX\n94 ROLL"
+            "sisaStok": "9 BOX\n58 ROLL"
         },
         "55": {
             "kodeProduk": "FF00D0000480005M0000RO",
@@ -294,7 +294,7 @@
         "58": {
             "kodeProduk": "FS00P0005000200ML000RO",
             "namaProduk": "STRECTCH FILM 500 X 200M X 17MIC",
-            "sisaStok": "81 BOX\n0 ROLL"
+            "sisaStok": "79 BOX\n0 ROLL"
         },
         "59": {
             "kodeProduk": "FS00P0005000300ML000RO",
@@ -309,7 +309,7 @@
         "61": {
             "kodeProduk": "FI00D0003000030MT000RO",
             "namaProduk": "DAIMARU CLING WRAP 300 X 30M X 10MIC",
-            "sisaStok": "12 BOX\n10 ROLL"
+            "sisaStok": "10 BOX\n10 ROLL"
         },
         "62": {
             "kodeProduk": "FI00D0003000500MK000RO",
@@ -319,27 +319,27 @@
         "63": {
             "kodeProduk": "FOC0I0000480064MA001RT",
             "namaProduk": "INDOMARET OPP 48 X 64M TRANSP",
-            "sisaStok": "305 BOX\n0 ROLL"
+            "sisaStok": "297 BOX\n0 ROLL"
         },
         "64": {
             "kodeProduk": "FOT0I0000480064MA001RT",
             "namaProduk": "INDOMARET OPP 48 X 64M TAN",
-            "sisaStok": "182 BOX\n0 ROLL"
+            "sisaStok": "177 BOX\n0 ROLL"
         },
         "65": {
             "kodeProduk": "FD00I0000120011MP001IM",
             "namaProduk": "INDOMARET DOUBLE TP 12 X 11M",
-            "sisaStok": "20 BOX\n0 ROLL"
+            "sisaStok": "19 BOX\n0 ROLL"
         },
         "66": {
             "kodeProduk": "FZ000I100240066MC001IM",
             "namaProduk": "INDOMARET SAT INDUSTRI 24 X 66M",
-            "sisaStok": "47 BOX\n0 ROLL"
+            "sisaStok": "46 BOX\n0 ROLL"
         },
         "67": {
             "kodeProduk": "FZN0I0000120025YE002RT",
             "namaProduk": "INDOMARET MINISELOTIP 12 X 25Y (2 ROLL/PACK)",
-            "sisaStok": "26 BOX\n0 ROLL"
+            "sisaStok": "25 BOX\n0 ROLL"
         },
         "68": {
             "kodeProduk": "FOC000000480100MA001LR",

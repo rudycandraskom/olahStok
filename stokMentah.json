@@ -1,5 +1,5 @@
 {
-    "lastUpdate": "21-Nov-2022 10:18",
+    "lastUpdate": "24-Nov-2022 16:90",
     "listBarang": [
         {
             "kodeProduk": "FA0000000480005M0000PS",
@@ -439,7 +439,7 @@
         {
             "kodeProduk": "FCH0DA000240012M0000RO",
             "namaProduk": "DAIMARU CLT 24 X 12 M HITAM.",
-            "sisaStok": "426"
+            "sisaStok": "402"
         },
         {
             "kodeProduk": "FCH0DA000240012M0001RO",
@@ -464,7 +464,7 @@
         {
             "kodeProduk": "FCH0DA000360012M0000RO",
             "namaProduk": "DAIMARU CLT 36 X 12 M HITAM.",
-            "sisaStok": "720"
+            "sisaStok": "708"
         },
         {
             "kodeProduk": "FCH0DA000360012M0001RO",
@@ -499,7 +499,7 @@
         {
             "kodeProduk": "FCH0DA000480012M0000RO",
             "namaProduk": "DAIMARU CLT 48 X 12 M HITAM.",
-            "sisaStok": "748"
+            "sisaStok": "724"
         },
         {
             "kodeProduk": "FCH0DA000480012M0001HP",
@@ -589,7 +589,7 @@
         {
             "kodeProduk": "FCH0EB100460010Y0000RO",
             "namaProduk": "EKATAPE CLOTH HITAM 46MM X 10 Y,",
-            "sisaStok": "1,132"
+            "sisaStok": "1,012"
         },
         {
             "kodeProduk": "FCH0FA000240050M0000RO",
@@ -1499,7 +1499,7 @@
         {
             "kodeProduk": "FD00DQ000120012YP000RO",
             "namaProduk": "DAIMARU DBL TAPE 12MM X 12 Y",
-            "sisaStok": "120"
+            "sisaStok": "20"
         },
         {
             "kodeProduk": "FD00DQ000120012YQ000RO",
@@ -1554,7 +1554,7 @@
         {
             "kodeProduk": "FD00DQ000240012YP000RO",
             "namaProduk": "DAIMARU DBL TAPE 24MM X 12 Y.",
-            "sisaStok": "540"
+            "sisaStok": "440"
         },
         {
             "kodeProduk": "FD00DQ000240012YQ000RO",
@@ -1699,7 +1699,7 @@
         {
             "kodeProduk": "FD00I0000120011MP001IM",
             "namaProduk": "INDOMART DBL TAPE  12MM X 11 M 1R",
-            "sisaStok": "4,800"
+            "sisaStok": "4,560"
         },
         {
             "kodeProduk": "FD00L0000120007M0001RT",
@@ -1849,7 +1849,7 @@
         {
             "kodeProduk": "FF00D0000240005M0000RO",
             "namaProduk": "DAIMARU DOUBLE FOAM 24 X 5 M ,",
-            "sisaStok": "958"
+            "sisaStok": "922"
         },
         {
             "kodeProduk": "FF00D0000240006M0000CP",
@@ -1979,7 +1979,7 @@
         {
             "kodeProduk": "FI00D0003000030MT000RO",
             "namaProduk": "DAIMARU CLING WRAP  300MM X 30 M",
-            "sisaStok": "298"
+            "sisaStok": "250"
         },
         {
             "kodeProduk": "FI00D0003000500MB100RO",
@@ -2309,7 +2309,7 @@
         {
             "kodeProduk": "FM00DI000120021M0000RO",
             "namaProduk": "DAIMARU MASKING 12 X 21 M ,",
-            "sisaStok": "1,072"
+            "sisaStok": "880"
         },
         {
             "kodeProduk": "FM00DI000180008M0000RO",
@@ -2374,7 +2374,7 @@
         {
             "kodeProduk": "FM00DI000240021M0000RO",
             "namaProduk": "DAIMARU MASKING 24 X 21 M .",
-            "sisaStok": "2,412"
+            "sisaStok": "2,196"
         },
         {
             "kodeProduk": "FM00DI000240021M0001RO",
@@ -2429,7 +2429,7 @@
         {
             "kodeProduk": "FM00DI000480021M0000RO",
             "namaProduk": "DAIMARU MASKING 48 X 21 M .",
-            "sisaStok": "10"
+            "sisaStok": "0"
         },
         {
             "kodeProduk": "FM00DI000480021M0001RO",
@@ -2539,7 +2539,7 @@
         {
             "kodeProduk": "FM00EJ000240015Y0000RO",
             "namaProduk": "EKA MASKING TAPE 63JY 24MMX15Y ,",
-            "sisaStok": "6,548"
+            "sisaStok": "6,512"
         },
         {
             "kodeProduk": "FM00EJ000240020M0000RO",
@@ -2589,7 +2589,7 @@
         {
             "kodeProduk": "FM00EJ000480020M0000RO",
             "namaProduk": "EKA MASKING TAPE 63JY 48MMX20M ,",
-            "sisaStok": "594"
+            "sisaStok": "546"
         },
         {
             "kodeProduk": "FM00EJ000480020Y0000RO",
@@ -3274,7 +3274,7 @@
         {
             "kodeProduk": "FOC0D0000480090YA000RO",
             "namaProduk": "DAIMARU OPP 48 X 90 Y TRANSP .",
-            "sisaStok": "10,844"
+            "sisaStok": "10,770"
         },
         {
             "kodeProduk": "FOC0D0000480090YA000VK",
@@ -3684,7 +3684,7 @@
         {
             "kodeProduk": "FOC0E0000450065YA000RO",
             "namaProduk": "EKATAPE OPP TRANSP 45MM X 65 Y ,",
-            "sisaStok": "4,272"
+            "sisaStok": "4,200"
         },
         {
             "kodeProduk": "FOC0E0000450065YA001RT",
@@ -3694,7 +3694,7 @@
         {
             "kodeProduk": "FOC0E0000450085YA000RO",
             "namaProduk": "EKATAPE OPP TRANSP 45MM X 85 Y ,",
-            "sisaStok": "14,433"
+            "sisaStok": "14,361"
         },
         {
             "kodeProduk": "FOC0E0000450085YA001JO",
@@ -3719,7 +3719,7 @@
         {
             "kodeProduk": "FOC0I0000480064MA001RT",
             "namaProduk": "INDOMART OPP TRANSP 48MM X 64 M 1R RTL",
-            "sisaStok": "14,640"
+            "sisaStok": "14,256"
         },
         {
             "kodeProduk": "FOC0L0000480050MA001RT",
@@ -4879,7 +4879,7 @@
         {
             "kodeProduk": "FOT0D0000480090YA000RO",
             "namaProduk": "DAIMARU OPP 48 X 90 Y TAN .",
-            "sisaStok": "6,244"
+            "sisaStok": "6,242"
         },
         {
             "kodeProduk": "FOT0D0000480090YA001JO",
@@ -5089,7 +5089,7 @@
         {
             "kodeProduk": "FOT0I0000480064MA001RT",
             "namaProduk": "INDOMART OPP  TAN 48MM X 64 M 1 RTL",
-            "sisaStok": "8,736"
+            "sisaStok": "8,496"
         },
         {
             "kodeProduk": "FOT0L0000480050MA001RT",
@@ -6567,6 +6567,11 @@
             "sisaStok": "0"
         },
         {
+            "kodeProduk": "FPC0O0000720090YH0001W",
+            "namaProduk": "OPP TAPE P  TRANSP 72MM X 90 Y 1 WARNA",
+            "sisaStok": "0"
+        },
+        {
             "kodeProduk": "FPC0O0000720090YZ0002B",
             "namaProduk": "OPP TAPE P  TRANSP 72MM X 90 Y 2 WARNA BLOCK",
             "sisaStok": "0"
@@ -7394,7 +7399,7 @@
         {
             "kodeProduk": "FPW000000480100MF0001W",
             "namaProduk": "OPP TAPE 48 X 100 M 1W PUTIH",
-            "sisaStok": "24"
+            "sisaStok": "18"
         },
         {
             "kodeProduk": "FPW000000480100MG0001W",
@@ -8137,6 +8142,11 @@
             "sisaStok": "0"
         },
         {
+            "kodeProduk": "FPW0O0000720100YH0002W",
+            "namaProduk": "OPP TAPE P  WHITE 72MM X 100 Y 2 WARNA",
+            "sisaStok": "0"
+        },
+        {
             "kodeProduk": "FPW0OEC00180050MZ0001B",
             "namaProduk": "OPP TAPE P EC WHITE 18MM X 50 M 1 WARNA BLOCK",
             "sisaStok": "0"
@@ -8239,7 +8249,7 @@
         {
             "kodeProduk": "FS00P0005000200ML000RO",
             "namaProduk": "STRECTCH FILM 500X200MX17MIC",
-            "sisaStok": "486"
+            "sisaStok": "474"
         },
         {
             "kodeProduk": "FS00P0005000200MM000RO",
@@ -8354,7 +8364,7 @@
         {
             "kodeProduk": "FZ000I100240066MC001IM",
             "namaProduk": "INDOMART SAT INDUSTRI 24X66M RTL 1R",
-            "sisaStok": "6,768"
+            "sisaStok": "6,624"
         },
         {
             "kodeProduk": "FZ000I100240072YC000LR",
@@ -8424,7 +8434,7 @@
         {
             "kodeProduk": "FZ00DI100120072YC000RO",
             "namaProduk": "DAIMARU SAT INDUSTRI 12X72Y .",
-            "sisaStok": "6,600"
+            "sisaStok": "6,156"
         },
         {
             "kodeProduk": "FZ00DI100120072YC001RO",
@@ -8484,7 +8494,7 @@
         {
             "kodeProduk": "FZ00DI100240072YC000RO",
             "namaProduk": "DAIMARU SAT INDUSTRI 24X72Y .",
-            "sisaStok": "6,300"
+            "sisaStok": "6,204"
         },
         {
             "kodeProduk": "FZ00DI100240072YC001RO",
@@ -8504,7 +8514,7 @@
         {
             "kodeProduk": "FZ00DP100120072YB000RO",
             "namaProduk": "DAIMARU SAT PREMIUM 12X72Y ,",
-            "sisaStok": "2,544"
+            "sisaStok": "2,508"
         },
         {
             "kodeProduk": "FZ00DP100120072YB001CP",
@@ -8524,7 +8534,7 @@
         {
             "kodeProduk": "FZ00DP100240072YB000RO",
             "namaProduk": "DAIMARU SAT PREMIUM 24X72Y ,",
-            "sisaStok": "2,022"
+            "sisaStok": "2,004"
         },
         {
             "kodeProduk": "FZ00DP100240072YB001CP",
@@ -8659,7 +8669,7 @@
         {
             "kodeProduk": "FZN0I0000120025YE002RT",
             "namaProduk": "INDOMART SAT  YELLOWIS 12MM X 25 Y 2 RTL",
-            "sisaStok": "7,488"
+            "sisaStok": "7,200"
         },
         {
             "kodeProduk": "FZN0L0000120025YE002RT",
