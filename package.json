@@ -8,12 +8,10 @@
   "author": "Rudy Candra",
   "license": "ISC",
   "dependencies": {
-    "csvtojson": "^2.0.10",
     "firebase": "^9.14.0",
     "nexe": "^1.1.6"
   },
   "description": "",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rudycandraskom/olahStok.git"
