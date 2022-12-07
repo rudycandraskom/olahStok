@@ -25,7 +25,7 @@ const database = getDatabase();
 console.log("Loading....");
 (async() => {
     await delay(3);
-    set(ref(database, "stokFinal"), stokFinal);
+    set(ref(database, "stokFinalx"), stokFinal);
     console.log("Stok Final sedang di Upload....");
     await delay(3);
     console.log("Stok Final berhasil di-Upload ");
